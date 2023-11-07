@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Textview">Please Chosse Your House</string>
+    <string name="CheakBox1">Winter Fall</string>
+    <string name="CheakBox2">The Wall</string>
+    <string name="CheakBox3">Kings Landing</string>
+
+</resources>
